@@ -1,4 +1,4 @@
-# Terraformer Import Task
+# Terraform Import Task
 
 ## Overview
 The goal of this task was to use Terraform to import existing AWS resources into Terraform configuration files. The imported files would then serve as the base for infrastructure-as-code (IaC) management.
